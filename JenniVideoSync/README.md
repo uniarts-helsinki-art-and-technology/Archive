@@ -2,7 +2,7 @@
 
 Video synchronisation of 3 video files based on Processing application runnig on Mac Mini.
 
-# Installation:
+## Installation:
 
 1. Download scripts and install Processing (www.processing.org) for all computers
 
@@ -15,7 +15,7 @@ Video synchronisation of 3 video files based on Processing application runnig on
 2.3. Export Processing app.
 
 
-# Setup "slave(s)":
+## Setup "slave(s)":
 
 3.1. Set the crrect file path pointing to your video file. See line:  movie = new Movie(this, "/Users/KuvaTila1/Desktop/slaveVideo.mov");
 
