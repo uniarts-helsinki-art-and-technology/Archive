@@ -6,7 +6,7 @@ Video synchronisation of 3 video files based on Processing application runnig on
 
 1. Download scripts and install Processing (www.processing.org) for all computers
 
-# Setup "master":
+## Setup "master":
 
 2.1. Set correct address for myRemoteLocation(s) See line(s): myRemoteLocation1 = new NetAddress("169.254.207.133", 12000); etc.
 
